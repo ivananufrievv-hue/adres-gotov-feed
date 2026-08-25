@@ -1,3 +1,483 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>AG-27</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юридический адрес от собственника - оплата по факту регистрации</Title>
+    <Description><![CDATA[Юридический адрес для регистрации ООО или смены адреса действующей компании - ул. Кржижановского, д. 29, к. 5 (27 ИФНС). Мы собственники помещения, работаем напрямую, без посредников. Оплата - только после того, как налоговая зарегистрирует адрес. Предоплата не требуется. Стоимость - от 1 700 руб/мес. Подготовим комплект документов для подачи в ФНС, ответим на вопросы по звонку или в сообщениях.]]></Description>
+    <Address>Москва, ул. Кржижановского, д. 29, к. 5, пом. 4А_1_5</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/27/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/27/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-22</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юр.адрес без предоплаты - платите после регистрации в налоговой</Title>
+    <Description><![CDATA[Адрес для регистрации бизнеса: Нижегородская ул., д. 70, к. 1 (22 ИФНС). Собственник помещения - без посредников и переплат за услуги третьих лиц. Работаем по постоплате: вы оплачиваете аренду адреса только после успешной регистрации в ФНС. Цена - от 1 700 руб/мес. Подходит для новой компании и для смены юридического адреса действующей.]]></Description>
+    <Address>Москва, Нижегородская ул., д. 70, к. 1, пом. 5-1</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/22/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/22/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-10</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юридический адрес для ООО, собственник, без предоплаты</Title>
+    <Description><![CDATA[Адрес для регистрации: ул. Юлиуса Фучика, д. 6, стр. 2 (10 ИФНС). Помещение в нашей собственности, документы предоставляем напрямую. Оплата по факту регистрации - вносится только после того, как адрес официально зарегистрирован в налоговой. Стоимость - от 1 700 руб/мес. Поможем с пакетом документов для подачи в ФНС.]]></Description>
+    <Address>Москва, ул. Юлиуса Фучика, д. 6, стр. 2</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/10/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/10/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-01</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юр.адрес от собственника в центре - оплата после регистрации</Title>
+    <Description><![CDATA[Юридический адрес: пер. Налесный, д. 9/11 (01 ИФНС). Мы собственники, посредников в цепочке нет. Никакой предоплаты - платите только когда ФНС уже зарегистрировала компанию по этому адресу. Цена - от 1 700 руб/мес. Подойдёт как для новой регистрации ООО, так и для смены адреса.]]></Description>
+    <Address>Москва, пер. Налесный, д. 9/11, пом. 1_П</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/01/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/01/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-24</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Адрес готов к регистрации ООО - без предоплаты</Title>
+    <Description><![CDATA[Юридический адрес: ул. Борисовские Пруды, д. 34, к. 1 (24 ИФНС). Собственник помещения, работаем напрямую. Формат оплаты - по факту регистрации: вы платите после того, как налоговая подтвердила адрес, а не заранее. Стоимость - от 1 700 руб/мес. Ответим на вопросы, поможем с документами для ФНС.]]></Description>
+    <Address>Москва, ул. Борисовские Пруды, д. 34, к. 1, пом. 2_1</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/24/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/24/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-36</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юридический адрес от собственника - постоплата после ФНС</Title>
+    <Description><![CDATA[Адрес для регистрации бизнеса: Кравченко ул., д. 12 (36 ИФНС). Мы - собственники помещения, без посредников. Работаем по постоплате - оплата только после успешной регистрации адреса в налоговой, без рисков предоплаты. Цена - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, Кравченко ул., д. 12, пом. 11_1_П</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/36/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/36/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-16</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юр.адрес для ООО - платите только после регистрации</Title>
+    <Description><![CDATA[Юридический адрес: ул. Искры, д. 31, к. 1 (16 ИФНС). Собственник, не посредник - все вопросы решаются напрямую. Оплата по факту регистрации - без предоплаты, платите только когда адрес уже в ФНС. Стоимость - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, ул. Искры, д. 31, к. 1, пом. 5Ч</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/16/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/16/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-08</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юридический адрес от собственника, без предоплаты</Title>
+    <Description><![CDATA[Адрес для регистрации: ул. Краснопрудная, д. 12/1, стр. 1 (08 ИФНС). Мы собственники помещения. Оплата - по факту регистрации компании в налоговой, предоплата не требуется. Цена - от 1 700 руб/мес. Подготовим документы для подачи в ФНС, проконсультируем по процессу.]]></Description>
+    <Address>Москва, ул. Краснопрудная, д. 12/1, стр. 1, пом. 1_6Б</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/08/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/08/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-14</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Адрес готов к регистрации ООО - собственник, без предоплаты</Title>
+    <Description><![CDATA[Юридический адрес: г. Москва, пр-д Петровско-Разумовский, д. 16 (Савёловский р-н, 14 ИФНС). Мы собственники помещения, работаем напрямую, без посредников. Оплата по факту регистрации - никакой предоплаты, платите только когда адрес уже подтверждён налоговой. Стоимость - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, пр-д Петровско-Разумовский, д. 16</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/14/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/14/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-18</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юр.адрес для регистрации бизнеса - оплата после ФНС</Title>
+    <Description><![CDATA[Юридический адрес: Краснобогатырская ул., д. 38, стр. 2 (18 ИФНС). Собственник помещения, без посредников. Никакой предоплаты - оплата после того, как налоговая зарегистрировала адрес. Стоимость - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, Краснобогатырская ул., д. 38, стр. 2, пом. 1_Н</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/18/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/18/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-20</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Адрес от собственника для ООО - без предоплаты</Title>
+    <Description><![CDATA[Адрес для регистрации: ул. Молостовых, д. 14, к. 3 (20 ИФНС). Мы собственники, работаем напрямую. Формат - оплата по факту регистрации, платите только после подтверждения адреса налоговой. Цена - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, ул. Молостовых, д. 14, к. 3</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/20/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/20/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-28</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юридический адрес - платите после регистрации в ФНС</Title>
+    <Description><![CDATA[Юридический адрес: Бутлерова ул., д. 17Б (28 ИФНС). Собственник помещения, без посредников. Оплата по факту регистрации - без предоплаты. Стоимость - от 1 700 руб/мес. Подходит для новой компании и для смены адреса действующей.]]></Description>
+    <Address>Москва, Бутлерова ул., д. 17Б, пом. 1Б_1_5</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/28/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/28/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-04</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юр.адрес от собственника в центре - без предоплаты</Title>
+    <Description><![CDATA[Адрес для регистрации бизнеса: Смоленский б-р, д. 24, стр. 2 (04 ИФНС). Мы собственники помещения. Работаем по постоплате - платите только после успешной регистрации в налоговой. Цена - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, Смоленский б-р, д. 24, стр. 2, пом. 8_3_3</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/04/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/04/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-43</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юридический адрес для ООО - оплата по факту регистрации</Title>
+    <Description><![CDATA[Юридический адрес: Ленинградское ш., д. 15 (43 ИФНС). Собственник, не посредник. Оплата - после регистрации адреса в ФНС, без предоплаты. Стоимость - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, Ленинградское ш., д. 15, пом. 2_3</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/43/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/43/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-05</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Адрес готов к регистрации - собственник, без предоплаты</Title>
+    <Description><![CDATA[Юридический адрес: Дубининская ул., д. 11/17, стр. 3 (05 ИФНС). Мы собственники помещения, работаем напрямую. Оплата по факту регистрации - платите только когда компания уже зарегистрирована по этому адресу. Цена - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, Дубининская ул., д. 11/17, стр. 3, пом. 10Б_1_П</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/05/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/05/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-03</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юр.адрес от собственника - без предоплаты</Title>
+    <Description><![CDATA[Адрес для регистрации бизнеса: Волков пер., д. 13, стр. 1 (03 ИФНС). Собственник помещения, посредников нет. Формат оплаты - по факту регистрации в налоговой. Стоимость - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, Волков пер., д. 13, стр. 1, пом. 22</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/03/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/03/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-09</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юридический адрес для ООО - платите после ФНС</Title>
+    <Description><![CDATA[Юридический адрес: Воронцовская ул., д. 25, стр. 3 (09 ИФНС). Мы собственники, работаем без посредников. Оплата после регистрации адреса налоговой - предоплата не требуется. Цена - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, Воронцовская ул., д. 25, стр. 3, пом. 2_П</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/09/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/09/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-07</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Адрес от собственника - оплата по факту регистрации</Title>
+    <Description><![CDATA[Адрес для регистрации: Краснопролетарская ул., д. 7 (07 ИФНС). Собственник помещения, без посредников. Никакой предоплаты - оплата только после подтверждённой регистрации в ФНС. Стоимость - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, Краснопролетарская ул., д. 7, пом. 1Н</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/07/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/07/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-19</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юридический адрес для бизнеса - без предоплаты</Title>
+    <Description><![CDATA[Юридический адрес: Верхняя Первомайская ул., д. 24-17 (19 ИФНС). Мы собственники, работаем напрямую. Оплата по факту регистрации - платите после того, как адрес зарегистрирован в налоговой. Цена - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, Верхняя Первомайская ул., д. 24-17, пом. 5м</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/19/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/19/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-33</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юр.адрес от собственника - оплата после регистрации</Title>
+    <Description><![CDATA[Адрес для регистрации бизнеса: Вишнёвая ул., 14-11 (33 ИФНС). Собственник помещения, без посредников. Работаем по постоплате - без предоплаты, оплата после регистрации в ФНС. Стоимость - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, Вишнёвая ул., 14-11</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/33/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/33/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-15</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юридический адрес - платите только после регистрации</Title>
+    <Description><![CDATA[Юридический адрес: Алтуфьевское ш., д. 79А, стр. 3 (15 ИФНС). Мы собственники, работаем напрямую. Оплата по факту регистрации - без предоплаты. Цена - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, Алтуфьевское ш., д. 79А, стр. 3, пом. 1_3_2</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/15/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/15/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-02</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Адрес от собственника для регистрации ООО</Title>
+    <Description><![CDATA[Юридический адрес: Щепкина ул., д. 60/2, стр. 1 (02 ИФНС). Собственник помещения, без посредников. Оплата - только по факту регистрации адреса в налоговой, предоплата не требуется. Стоимость - от 1 700 руб/мес.]]></Description>
+    <Address>Москва, Щепкина ул., д. 60/2, стр. 1, пом. 19П</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/02/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/02/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-25</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юридический адрес для ООО - без предоплаты, оплата после ФНС</Title>
+    <Description><![CDATA[Юридический адрес: г. Москва, ул. Шухова, д. 11/16, пом. 2/5 (Даниловский р-н, 25 ИФНС). Мы собственники помещения, работаем без посредников. Оплата по факту регистрации - вносится только после того, как налоговая зарегистрирует адрес. Предоплата не требуется. Стоимость - от 1 700 руб/мес. Подготовим документы для подачи в ФНС, ответим на вопросы.]]></Description>
+    <Address>Москва, ул. Шухова, д. 11/16, пом. 2/5</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/25/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/25/2.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>AG-51</Id>
+    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ContactPhone>+7 999 000-80-64</ContactPhone>
+    <Category>Предложение услуг</Category>
+    <Price>1700</Price>
+    <Title>Юр.адрес от собственника - платите после регистрации</Title>
+    <Description><![CDATA[Юридический адрес: г. Москва, пос. Коммунарка, ул. Бачуринская, д. 7, к. 1, пом. 22А (51 ИФНС). Собственник помещения, без посредников. Работаем по постоплате - оплата только после успешной регистрации компании по этому адресу в налоговой. Цена - от 1 700 руб/мес. Подойдёт для новой регистрации ООО и для смены юридического адреса.]]></Description>
+    <Address>Москва, пос. Коммунарка, ул. Бачуринская, д. 7, к. 1, пом. 22А</Address>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>Юридические услуги</ServiceSubtype>
+    <Place>У себя</Place>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Images>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/51/1.jpg"/>
+      <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/51/2.jpg"/>
+    </Images>
+  </Ad>
 </Ads>
