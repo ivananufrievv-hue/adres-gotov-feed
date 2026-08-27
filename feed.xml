@@ -2,7 +2,7 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>AG-27</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -33,6 +33,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/27/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/27/2.jpg"/>
@@ -40,7 +59,7 @@
   </Ad>
   <Ad>
     <Id>AG-22</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -71,6 +90,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/22/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/22/2.jpg"/>
@@ -78,7 +116,7 @@
   </Ad>
   <Ad>
     <Id>AG-10</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -109,6 +147,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/10/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/10/2.jpg"/>
@@ -116,7 +173,7 @@
   </Ad>
   <Ad>
     <Id>AG-01</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -147,6 +204,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/01/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/01/2.jpg"/>
@@ -154,7 +230,7 @@
   </Ad>
   <Ad>
     <Id>AG-24</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -185,6 +261,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/24/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/24/2.jpg"/>
@@ -192,7 +287,7 @@
   </Ad>
   <Ad>
     <Id>AG-36</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -223,6 +318,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/36/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/36/2.jpg"/>
@@ -230,7 +344,7 @@
   </Ad>
   <Ad>
     <Id>AG-16</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -261,6 +375,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/16/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/16/2.jpg"/>
@@ -268,7 +401,7 @@
   </Ad>
   <Ad>
     <Id>AG-08</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -299,6 +432,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/08/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/08/2.jpg"/>
@@ -306,7 +458,7 @@
   </Ad>
   <Ad>
     <Id>AG-14</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -337,6 +489,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/14/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/14/2.jpg"/>
@@ -344,7 +515,7 @@
   </Ad>
   <Ad>
     <Id>AG-18</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -375,6 +546,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/18/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/18/2.jpg"/>
@@ -382,7 +572,7 @@
   </Ad>
   <Ad>
     <Id>AG-20</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -413,6 +603,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/20/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/20/2.jpg"/>
@@ -420,7 +629,7 @@
   </Ad>
   <Ad>
     <Id>AG-28</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -451,6 +660,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/28/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/28/2.jpg"/>
@@ -458,7 +686,7 @@
   </Ad>
   <Ad>
     <Id>AG-04</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -489,6 +717,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/04/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/04/2.jpg"/>
@@ -496,7 +743,7 @@
   </Ad>
   <Ad>
     <Id>AG-43</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -527,6 +774,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/43/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/43/2.jpg"/>
@@ -534,7 +800,7 @@
   </Ad>
   <Ad>
     <Id>AG-05</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -565,6 +831,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/05/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/05/2.jpg"/>
@@ -572,7 +857,7 @@
   </Ad>
   <Ad>
     <Id>AG-03</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -603,6 +888,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/03/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/03/2.jpg"/>
@@ -610,7 +914,7 @@
   </Ad>
   <Ad>
     <Id>AG-09</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -641,6 +945,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/09/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/09/2.jpg"/>
@@ -648,7 +971,7 @@
   </Ad>
   <Ad>
     <Id>AG-07</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -679,6 +1002,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/07/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/07/2.jpg"/>
@@ -686,7 +1028,7 @@
   </Ad>
   <Ad>
     <Id>AG-19</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -717,6 +1059,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/19/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/19/2.jpg"/>
@@ -724,7 +1085,7 @@
   </Ad>
   <Ad>
     <Id>AG-33</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -755,6 +1116,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/33/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/33/2.jpg"/>
@@ -762,7 +1142,7 @@
   </Ad>
   <Ad>
     <Id>AG-15</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -793,6 +1173,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/15/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/15/2.jpg"/>
@@ -800,7 +1199,7 @@
   </Ad>
   <Ad>
     <Id>AG-02</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -831,6 +1230,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/02/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/02/2.jpg"/>
@@ -838,7 +1256,7 @@
   </Ad>
   <Ad>
     <Id>AG-51</Id>
-    <ManagerName>Юр Адрес Маркет</ManagerName>
+    <ManagerName>Адрес Готов</ManagerName>
     <ContactPhone>+7 999 000-80-64</ContactPhone>
     <Category>Предложение услуг</Category>
     <Price>1700</Price>
@@ -869,6 +1287,25 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
+    <Direction>Юридическое обслуживание</Direction>
+    <FormatWork>Сопровождение до результата</FormatWork>
+    <WorkWith>Физические лица</WorkWith>
+    <WorkWith>ИП</WorkWith>
+    <WorkWith>ООО</WorkWith>
+    <WorkWith>АО</WorkWith>
+    <WorkWith>НКО</WorkWith>
+    <WorkWith>Другие юридические лица</WorkWith>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <WorkDays>Понедельник</WorkDays>
+    <WorkDays>Вторник</WorkDays>
+    <WorkDays>Среда</WorkDays>
+    <WorkDays>Четверг</WorkDays>
+    <WorkDays>Пятница</WorkDays>
+    <WorkDays>Суббота</WorkDays>
+    <WorkDays>Воскресенье</WorkDays>
+    <WorkTimeFrom>06:00</WorkTimeFrom>
+    <WorkTimeTo>23:00</WorkTimeTo>
+    <TakeUrgentOrders>Да</TakeUrgentOrders>
     <Images>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/51/1.jpg"/>
       <Image url="https://ivananufrievv-hue.github.io/adres-gotov-feed/images/51/2.jpg"/>
