@@ -28,7 +28,7 @@ from texts import build  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE_URL = "https://ivananufrievv-hue.github.io/adres-gotov-feed"
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-PHONE = "+7 999 666-51-06"
+PHONE = "+7 999 000-80-64"
 IMG_VERSION = "v1"  # при замене картинок менять: Авито кеширует по URL
 
 LOGO = '<div class="partner">Партнёр <img src="tbiz-logo.jpg"></div>'
