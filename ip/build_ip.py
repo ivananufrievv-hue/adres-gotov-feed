@@ -30,7 +30,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE_URL = "https://ivananufrievv-hue.github.io/adres-gotov-feed"
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 PHONE = "+7 999 000-80-64"
-IMG_VERSION = "v2"  # при замене картинок менять: Авито кеширует по URL
+IMG_VERSION = "v3"  # при замене картинок менять: Авито кеширует по URL
 
 # Пары картинок одного стиля; город i получает пару i % 5. Первая — обложка.
 STYLES = [(styles.v02, styles.v01), (styles.v04, styles.v03), (styles.v05, styles.v06),
@@ -46,11 +46,11 @@ def render_images(i, slug, city, city_in):
             os.remove(os.path.join(out_dir, old))
     for n, fn in enumerate(STYLES[i % len(STYLES)], 1):
         with tempfile.NamedTemporaryFile("w", suffix=".html", dir=os.path.join(ROOT, "ip"), delete=False, encoding="utf-8") as fh:
-            fh.write(styles.page_html(fn(city, city_in)))
+            fh.write(styles.page_html(fn(city, city_in), square=True))
             page = fh.name
         png = page[:-5] + ".png"
         try:
-            subprocess.run([CHROME, "--headless=new", "--hide-scrollbars", "--window-size=1200,900",
+            subprocess.run([CHROME, "--headless=new", "--hide-scrollbars", f"--window-size={styles.SQUARE},{styles.SQUARE}",
                             "--virtual-time-budget=8000", f"--screenshot={png}", "file://" + page],
                            check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             jpg = os.path.join(out_dir, f"{IMG_VERSION}-{n}.jpg")

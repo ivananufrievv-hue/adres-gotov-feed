@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""10 тестовых вариантов инфографики «Регистрация ИП» (1200x900, формат Авито).
+"""10 тестовых вариантов инфографики «Регистрация ИП» (макет 1200x900; в фид — по центру квадрата 1200x1200).
 Запуск: python3 build.py  -> PNG/JPG рядом с папкой src."""
 import os
 import subprocess
@@ -180,7 +180,7 @@ def lux_css():
 
 
 def v07(c, v):  # пример 4: «люкс» — тёмный фон, золото, антиква
-    lines = "".join(f'<div class="abs" style="left:{x}px;top:0;width:1px;height:900px;background:rgba(233,214,168,.08)"></div>' for x in (600, 640))
+    lines = "".join(f'<div class="abs" style="left:{x}px;top:-400px;width:1px;height:1700px;background:rgba(233,214,168,.08)"></div>' for x in (600, 640))
     return lux_css() + lines + f"""
     <div class="abs" style="left:700px;top:120px;width:420px;height:640px;border:1px solid rgba(233,214,168,.35)"></div>
     <div class="abs" style="left:740px;top:170px;width:340px;text-align:center">{icon('doc',200,'#d8b36a',1.4)}
@@ -215,9 +215,10 @@ def map_svg(dark=False, dy=0):
     land = "#2f3644" if not dark else "#262b36"
     lines = "".join(f'<line x1="{pts[a][0]}" y1="{pts[a][1]}" x2="{pts[b][0]}" y2="{pts[b][1]}" stroke="#f2a65a" stroke-width="1.6" opacity=".85"/>' for a, b in edges)
     dots = "".join(f'<circle cx="{x}" cy="{y}" r="4" fill="#ffd08a"/><circle cx="{x}" cy="{y}" r="12" fill="#f2a65a" opacity=".25"/>' for x, y in pts)
-    blobs = ('<path d="M60 560 Q160 420 330 460 T620 420 T900 380 T1180 470 L1200 900 L0 900 Z" fill="%s" opacity="%s"/>'
+    # суша заходит за края макета: в квадратном режиме поля вокруг макета тоже закрыты
+    blobs = ('<path d="M-300 640 Q-100 560 60 560 Q160 420 330 460 T620 420 T900 380 T1180 470 Q1350 520 1500 560 L1500 1500 L-300 1500 Z" fill="%s" opacity="%s"/>'
              % (land, ".9" if not dark else "1"))
-    return f'<svg class="abs" style="left:0;top:{dy}px" width="1200" height="900">{blobs}{lines}{dots}</svg>'
+    return f'<svg class="abs" style="left:0;top:{dy}px;overflow:visible" width="1200" height="900">{blobs}{lines}{dots}</svg>'
 
 
 def pin(x, y, s=1.0, label=""):
@@ -248,9 +249,21 @@ def v10(c, v):  # пример 5: тёмная карта, акцент на г�
       <div style="font:500 26px/1.4 Manrope;color:#c7cedb;margin-top:20px">Подпишите документы в удобном месте — ИП, счёт и КЭП без визита в налоговую. Бесплатно.</div></div>"""
 
 
-def page_html(body):
+SQUARE = 1200
+SQUARE_SCALE = 0.75  # макет 1200x900 -> 900x675 в центре квадрата: виден при любой обрезке превью Авито
+
+
+def page_html(body, square=False):
+    if not square:
+        return (f'<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="{FONTS}">'
+                f'<style>{BASE}</style></head><body>{body}</body></html>')
+    # Фон стиля (на body) растягивается на весь квадрат, макет масштабируется и встаёт по центру
+    left, top = (SQUARE - 1200 * SQUARE_SCALE) / 2, (SQUARE - 900 * SQUARE_SCALE) / 2
+    sq = (f"html, body {{ width:{SQUARE}px; height:{SQUARE}px; }}"
+          f".stage {{ position:absolute; left:{left}px; top:{top}px; width:1200px; height:900px;"
+          f" transform:scale({SQUARE_SCALE}); transform-origin:0 0; }}")
     return (f'<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="{FONTS}">'
-            f'<style>{BASE}</style></head><body>{body}</body></html>')
+            f'<style>{BASE}{sq}</style></head><body><div class="stage">{body}</div></body></html>')
 
 
 DEMO = {"01": ("Москва", "в Москве"), "02": ("Санкт-Петербург", "в Санкт-Петербурге"), "03": ("Самара", "в Самаре"),

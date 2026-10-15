@@ -2,7 +2,7 @@
 """
 Обложки объявлений по юр. адресам: фото помещения + инфографика.
 
-Слева цветная панель (заголовок, три тезиса, кнопка), справа фото помещения
+Квадрат: сверху цветная панель (заголовок, три тезиса), снизу фото помещения
 с плашкой адреса. 6 палитр по мотивам шаблонов Юрмаркета чередуются по объявлениям.
 
     python3 addr/build_cover.py --test <папка>   # по одному объявлению на палитру
@@ -18,7 +18,9 @@ import xml.etree.ElementTree as ET
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-VER = "v1"
+VER = "v2"  # при замене картинок менять: Авито кеширует по URL
+SIZE = 1200
+SAFE = 150  # поля под обрезку превью: центр 900x900 виден при любой обрезке
 FONTS = "https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&family=Manrope:wght@600;700;800&display=swap"
 
 # bg панели, заголовок, акцент заголовка, плитка иконки, цвет иконки, фон тезиса, текст тезиса, кнопка, текст кнопки
@@ -48,42 +50,42 @@ def icon(name, color, size=50):
 
 
 def html(photo_url, street, ifns, pal):
+    """Квадрат 1200x1200: Авито режет превью в ленте по-разному (1:1, 4:3, 3:4),
+    поэтому весь текст — в центральной зоне SAFE..1200-SAFE, края — только фон и фото."""
     bg, h, hacc, tile, ic, pill, ptxt, cta, ctatxt = PALETTES[pal]
-    rows = "".join(f'<div class="row" style="background:{pill};color:{ptxt}"><div class="tile" style="background:{tile}">{icon(n, ic)}</div><div>{t}</div></div>'
+    rows = "".join(f'<div class="row" style="background:{pill};color:{ptxt}"><div class="tile" style="background:{tile}">{icon(n, ic, 44)}</div><div>{t}</div></div>'
                    for n, t in THESES)
     border = "border:2px solid rgba(0,0,0,.06);" if pal in ("white", "redgreen", "yellow") else ""
     chip_ifns = f'<span style="opacity:.55;margin:0 10px">·</span>{int(ifns)} ИФНС' if ifns else ""
     return f"""<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="{FONTS}"><style>
 * {{ box-sizing:border-box; margin:0; padding:0 }}
-html,body {{ width:1200px; height:900px; overflow:hidden }}
-body {{ position:relative; font-family:'Manrope',Arial,sans-serif; background:#000 }}
-.photo {{ position:absolute; left:470px; top:0; width:730px; height:900px; background:url('{photo_url}') center/cover }}
-.panel {{ position:absolute; left:0; top:0; width:640px; height:900px; background:{bg};
-  clip-path:polygon(0 0,100% 0,78% 100%,0 100%); }}
-.in {{ position:absolute; left:52px; top:46px; width:520px }}
-.brand {{ font:900 26px Montserrat; letter-spacing:3px; color:{h} }}
+html,body {{ width:{SIZE}px; height:{SIZE}px; overflow:hidden }}
+body {{ position:relative; font-family:'Manrope',Arial,sans-serif; background:{bg} }}
+.photo {{ position:absolute; left:0; top:700px; width:{SIZE}px; height:500px; background:url('{photo_url}') center/cover;
+  clip-path:polygon(0 70px,100% 0,100% 100%,0 100%) }}
+.in {{ position:absolute; left:{SAFE}px; top:{SAFE + 10}px; width:{SIZE - 2 * SAFE}px; text-align:center }}
+.brand {{ font:900 28px Montserrat; letter-spacing:3px; color:{h} }}
 .brand b {{ color:{hacc} }}
-h1 {{ margin-top:22px; font:900 63px/1 Montserrat; color:{h}; letter-spacing:-1.5px; text-transform:uppercase }}
+h1 {{ margin-top:16px; font:900 76px/1 Montserrat; color:{h}; letter-spacing:-1.5px; text-transform:uppercase }}
 h1 span {{ color:{hacc} }}
-.row {{ display:flex; align-items:center; gap:18px; margin-top:20px; padding:14px 20px 14px 14px; border-radius:26px; width:470px;
-  font:800 27px/1.15 Manrope; {border} }}
-.tile {{ width:82px; height:82px; border-radius:22px; display:flex; align-items:center; justify-content:center; flex:none;
+.row {{ display:flex; align-items:center; gap:18px; margin-top:12px; padding:9px 20px 9px 9px; border-radius:24px; width:640px; margin-left:auto; margin-right:auto; text-align:left;
+  font:800 28px/1.15 Manrope; {border} }}
+.tile {{ width:68px; height:68px; border-radius:18px; display:flex; align-items:center; justify-content:center; flex:none;
   box-shadow:0 6px 14px rgba(0,0,0,.18) }}
-.cta {{ position:absolute; left:52px; bottom:46px; display:flex; align-items:center; gap:18px; background:{cta}; color:{ctatxt};
-  font:900 36px Montserrat; padding:20px 26px 20px 34px; border-radius:60px; box-shadow:0 10px 24px rgba(0,0,0,.25) }}
-.arrow {{ width:52px; height:52px; border-radius:50%; background:{ctatxt}; color:{cta}; display:flex; align-items:center; justify-content:center; font:900 30px Manrope }}
-.chip {{ position:absolute; right:34px; bottom:40px; display:flex; align-items:center; gap:10px; background:rgba(255,255,255,.94); color:#151515;
-  font:800 26px Manrope; padding:14px 22px 14px 16px; border-radius:20px; box-shadow:0 10px 30px rgba(0,0,0,.35) }}
+.chip {{ position:absolute; left:50%; transform:translateX(-50%); white-space:nowrap; top:810px; display:flex; align-items:center; gap:10px; background:rgba(255,255,255,.95); color:#151515;
+  font:800 30px Manrope; padding:14px 24px 14px 16px; border-radius:20px; box-shadow:0 10px 30px rgba(0,0,0,.35) }}
+.cta {{ position:absolute; left:50%; transform:translateX(-50%); white-space:nowrap; bottom:{SAFE + 10}px; display:flex; align-items:center; gap:18px; background:{cta}; color:{ctatxt};
+  font:900 34px Montserrat; padding:16px 22px 16px 32px; border-radius:60px; box-shadow:0 10px 24px rgba(0,0,0,.3) }}
+.arrow {{ width:48px; height:48px; border-radius:50%; background:{ctatxt}; color:{cta}; display:flex; align-items:center; justify-content:center; font:900 28px Manrope }}
 </style></head><body>
 <div class="photo"></div>
-<div class="panel"></div>
 <div class="in">
   <div class="brand">АДРЕС <b>ГОТОВ</b></div>
-  <h1>Юридический<br><span>адрес</span></h1>
-  <div style="margin-top:34px">{rows}</div>
+  <h1>Юридический <span>адрес</span></h1>
+  <div style="margin-top:22px">{rows}</div>
 </div>
+<div class="chip">{icon('pin', '#e3000f', 36)}{street}{chip_ifns}</div>
 <div class="cta">Напишите нам <div class="arrow">→</div></div>
-<div class="chip">{icon('pin', '#e3000f', 34)}{street}{chip_ifns}</div>
 </body></html>"""
 
 
@@ -120,7 +122,7 @@ def render(photo_url, street, ifns, pal, out_jpg):
         page = fh.name
     png = page[:-5] + ".png"
     try:
-        subprocess.run([CHROME, "--headless=new", "--hide-scrollbars", "--window-size=1200,900", "--virtual-time-budget=8000",
+        subprocess.run([CHROME, "--headless=new", "--hide-scrollbars", f"--window-size={SIZE},{SIZE}", "--virtual-time-budget=8000",
                         f"--screenshot={png}", "file://" + page], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         subprocess.run(["sips", "-s", "format", "jpeg", "-s", "formatOptions", "88", png, "--out", out_jpg],
                        check=True, stdout=subprocess.DEVNULL)
